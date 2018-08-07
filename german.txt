@@ -13,3 +13,7 @@ Martes 7:
 	2) Hoy trabajaré es la implementación de un contrato inteligente que cumpla con el estandar ERC-721, con el objetivo de que cada Arbol de cacao que ingresemos sea identificado con características únicas.
 	3) Problemas de conexión que me impiden testar el contrato en las redes de prueba.
 
+Miércoles 8:
+	1) Trabajé en el boceto de un contrato inteligente con el estandar ERC-721 que permite la trazabilidad de los arboles de cada como entidades únicas. 
+	2) Hoy mejoraré el contrato tomando en cuenta que cada árbol tiene ademas una ubicación única, también posee una variedad y un cacao cultor asignado. 
+	3) tengo problemas en definir el modelo tomando en cuenta el levantamiento de datos que hará el equipo de Investigación. No estoy seguro si los datos de mi modelo son insuficientes respecto a la información que podemos recabar.
