@@ -1,0 +1,15 @@
+Bitácora de trabajo de Germán Lugo para el equipo de marketing/desarrollo/investigacion. (Coloca tú solo el que te corresponde).
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+Agosto 2018
+
+Martes 7: 
+	1) Trabajé en el boceto de un Contrato Inteligente para mostrarcelo al Equipo de desarrollo y poder discutir tanto su diseño como la sintaxis.
+	2) Hoy trabajaré es la implementación de un contrato inteligente que cumpla con el estandar ERC-721, con el objetivo de que cada Arbol de cacao que ingresemos sea identificado con características únicas.
+	3) Problemas de conexión que me impiden testar el contrato en las redes de prueba.
+
