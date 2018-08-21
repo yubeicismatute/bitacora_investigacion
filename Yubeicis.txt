@@ -46,6 +46,19 @@ Miércoles 15:
 	2)Editar el copy del correo diseñado en el sprint pasado (sprint nº2) tomando como referencia la revisión de Uramay Cegarra Project Owner del equipo de investigación.
         3)Considero que ninguna dificultad.
 
+Jueves 16: 
+	1)Conversar en la reunión del sprint del día miércoles 15 la necesidad de un correo con dominio corporativo, para efectuar la realización del primer contacto con la lista de fundaciones.
+	2)Edición del correo corporativo de presentación a las fundaciones en MailChimp, para su revisión final.
+        3)Considero que ninguna dificultad.
 
+Viernes 17:
+        1) Subir el archivo con los detalles del correo a la tarjeta correspondiente y pasarla a revisión, desde el ordenador de mi trabajo.
+        2) No dediqué tiempo a ninguna tarea.
+        3) Estuve sin internet desde el jueves 16 hasta el sábado 18.
+
+Lunes 20:
+        1)Conversar con Uramay Cegarra (Project Owner) las observaciones del correo, quien considera necesario añadirle un formulario breve.
+        2)Crear el nuevo archivo para la base de datos del estado Aragua y vaciar allí la información recabada en el sprint nº1.
+        3)Considero que ninguna dificultad.
 
 
