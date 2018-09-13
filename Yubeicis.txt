@@ -99,3 +99,13 @@ Miércoles 5:
         1) Añadir a trello un horario para definir las horas de trabajo (tentativas) que dedicaré a la fundación, solicitado por Uramay Cegarra.
         2) Continuar con la investigación solicitada por Rosmary Rabelo.
         3) No poder avanzar en la tarea de contactar a las fundaciones afines al sector de cacao, porque aún no he recibido respuesta de Bárbara Lugo para realizar la última edición al diseño de correo.
+
+Martes 11:
+        1) Visita a la hacienda Mis Poemas.
+        2) Editar presentación del archivo (PÁGINAS WEB QUE OFRECEN LOS MISMOS SERVICIOS O SERVICIOS SIMILARES A LA CHOCOSFERA.doc) para subirlo a revisión y posteriormente pueda ser añadido a la base de datos. 
+        3) A-Desde el día jueves 06 no tuve serios problemas con el internet, que limitó mucho mi trabajo y lo retrasó incluso.B- No se pudo concretar el contacto con las fundaciones debido al retraso en la revisión en cuanto al diseño de correo, por lo cual esta tarea quedó movida a detenido para ser tomada en cuenta dentro del siguiente sprint.
+
+Miércoles 12:
+        1) Planificación del Sprint #5 con el equipo de investigación. 
+        2) Solicitud de firma para el correo electrónico a Germán Lugo (CVO), solicitud de definición concisa del requerimiento #3 al equipo de marketing y solicitud de banco de imágenes para seleccionar la que será añadida al correo dirigido a las Fundaciones Bárbara Lugo (Gerente de Proyectos).
+        3) Considero que ninguna dificultad.
